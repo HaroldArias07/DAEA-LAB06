@@ -1,0 +1,18 @@
+C:\Users\Fernando\source\repos\Laboratorio06\Lab-06\Data\bin\Debug\Data.dll
+C:\Users\Fernando\source\repos\Laboratorio06\Lab-06\Data\bin\Debug\Data.pdb
+C:\Users\Fernando\source\repos\Laboratorio06\Lab-06\Data\bin\Debug\Entity.dll
+C:\Users\Fernando\source\repos\Laboratorio06\Lab-06\Data\bin\Debug\Entity.pdb
+C:\Users\Fernando\source\repos\Laboratorio06\Lab-06\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\Fernando\source\repos\Laboratorio06\Lab-06\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\Laboratorio06\Lab-06\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Fernando\source\repos\Laboratorio06\Lab-06\Data\obj\Debug\Data.dll
+C:\Users\Fernando\source\repos\Laboratorio06\Lab-06\Data\obj\Debug\Data.pdb
+C:\Users\Harold Arias\source\repos\Lab06\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\Harold Arias\source\repos\Lab06\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Harold Arias\source\repos\Lab06\Data\obj\Debug\Data.dll
+C:\Users\Harold Arias\source\repos\Lab06\Data\obj\Debug\Data.pdb
+C:\Users\Harold Arias\source\repos\Lab06\Data\bin\Debug\Data.dll
+C:\Users\Harold Arias\source\repos\Lab06\Data\bin\Debug\Data.pdb
+C:\Users\Harold Arias\source\repos\Lab06\Data\bin\Debug\Entity.dll
+C:\Users\Harold Arias\source\repos\Lab06\Data\bin\Debug\Entity.pdb
+C:\Users\Harold Arias\source\repos\Lab06\Data\obj\Debug\Data.csproj.CopyComplete

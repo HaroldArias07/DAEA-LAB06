@@ -1,0 +1,48 @@
+C:\Users\Fernando\source\repos\Laboratorio06\Lab-06\View\bin\Debug\View.exe.config
+C:\Users\Fernando\source\repos\Laboratorio06\Lab-06\View\bin\Debug\View.exe
+C:\Users\Fernando\source\repos\Laboratorio06\Lab-06\View\bin\Debug\View.pdb
+C:\Users\Fernando\source\repos\Laboratorio06\Lab-06\View\bin\Debug\Business.dll
+C:\Users\Fernando\source\repos\Laboratorio06\Lab-06\View\bin\Debug\Entity.dll
+C:\Users\Fernando\source\repos\Laboratorio06\Lab-06\View\bin\Debug\Data.dll
+C:\Users\Fernando\source\repos\Laboratorio06\Lab-06\View\bin\Debug\Business.pdb
+C:\Users\Fernando\source\repos\Laboratorio06\Lab-06\View\bin\Debug\Entity.pdb
+C:\Users\Fernando\source\repos\Laboratorio06\Lab-06\View\bin\Debug\Data.pdb
+C:\Users\Fernando\source\repos\Laboratorio06\Lab-06\View\obj\Debug\View.csproj.AssemblyReference.cache
+C:\Users\Fernando\source\repos\Laboratorio06\Lab-06\View\obj\Debug\ListaCategoria.g.cs
+C:\Users\Fernando\source\repos\Laboratorio06\Lab-06\View\obj\Debug\NuevaCategoria.g.cs
+C:\Users\Fernando\source\repos\Laboratorio06\Lab-06\View\obj\Debug\App.g.cs
+C:\Users\Fernando\source\repos\Laboratorio06\Lab-06\View\obj\Debug\View_MarkupCompile.cache
+C:\Users\Fernando\source\repos\Laboratorio06\Lab-06\View\obj\Debug\View_MarkupCompile.lref
+C:\Users\Fernando\source\repos\Laboratorio06\Lab-06\View\obj\Debug\ListaCategoria.baml
+C:\Users\Fernando\source\repos\Laboratorio06\Lab-06\View\obj\Debug\NuevaCategoria.baml
+C:\Users\Fernando\source\repos\Laboratorio06\Lab-06\View\obj\Debug\View.g.resources
+C:\Users\Fernando\source\repos\Laboratorio06\Lab-06\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\Fernando\source\repos\Laboratorio06\Lab-06\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\Fernando\source\repos\Laboratorio06\Lab-06\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\Laboratorio06\Lab-06\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\Fernando\source\repos\Laboratorio06\Lab-06\View\obj\Debug\View.exe
+C:\Users\Fernando\source\repos\Laboratorio06\Lab-06\View\obj\Debug\View.pdb
+C:\Users\Harold Arias\source\repos\Lab06\View\bin\Debug\View.exe.config
+C:\Users\Harold Arias\source\repos\Lab06\View\bin\Debug\View.exe
+C:\Users\Harold Arias\source\repos\Lab06\View\bin\Debug\View.pdb
+C:\Users\Harold Arias\source\repos\Lab06\View\bin\Debug\Business.dll
+C:\Users\Harold Arias\source\repos\Lab06\View\bin\Debug\Entity.dll
+C:\Users\Harold Arias\source\repos\Lab06\View\bin\Debug\Data.dll
+C:\Users\Harold Arias\source\repos\Lab06\View\bin\Debug\Business.pdb
+C:\Users\Harold Arias\source\repos\Lab06\View\bin\Debug\Entity.pdb
+C:\Users\Harold Arias\source\repos\Lab06\View\bin\Debug\Data.pdb
+C:\Users\Harold Arias\source\repos\Lab06\View\obj\Debug\View.csproj.AssemblyReference.cache
+C:\Users\Harold Arias\source\repos\Lab06\View\obj\Debug\ListaCategoria.g.cs
+C:\Users\Harold Arias\source\repos\Lab06\View\obj\Debug\NuevaCategoria.g.cs
+C:\Users\Harold Arias\source\repos\Lab06\View\obj\Debug\App.g.cs
+C:\Users\Harold Arias\source\repos\Lab06\View\obj\Debug\View_MarkupCompile.cache
+C:\Users\Harold Arias\source\repos\Lab06\View\obj\Debug\View_MarkupCompile.lref
+C:\Users\Harold Arias\source\repos\Lab06\View\obj\Debug\ListaCategoria.baml
+C:\Users\Harold Arias\source\repos\Lab06\View\obj\Debug\NuevaCategoria.baml
+C:\Users\Harold Arias\source\repos\Lab06\View\obj\Debug\View.g.resources
+C:\Users\Harold Arias\source\repos\Lab06\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\Harold Arias\source\repos\Lab06\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\Harold Arias\source\repos\Lab06\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\Harold Arias\source\repos\Lab06\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\Harold Arias\source\repos\Lab06\View\obj\Debug\View.exe
+C:\Users\Harold Arias\source\repos\Lab06\View\obj\Debug\View.pdb
